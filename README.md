@@ -2,6 +2,8 @@
 
 Krypton is an audio player library primarily meant for Discord Bots. It is heavily based off the amazing [**Lavaplayer**](https://github.com/sedmelluq/lavaplayer)
 
+- [**Support Server #krypton**](https://discord.gg/Vkbmb8kuH4)
+
 ## ❓ Why?
 
 While developing my bot, [**Mixtape**](https://mixtape.systems), I ran into a lot of issues where lavaplayer just wasn't flexible enough for me. I went on to convert almost everything to Kotlin ([my fork](https://github.com/mixtape-oss/lavaplayer)), but it still had some limitations and I wasn't very confident that I could successfully rewrite parts of lavaplayer without breaking it.
