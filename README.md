@@ -17,7 +17,6 @@ Some of this will consist of:
 
 - Audio Filters
 - Custom Source Managers
-- Wide range of default sources (YouTube, Soundcloud, Twitch, Vimeo, Bandcamp, etc...)
 - Wide range of supported formats (WAV, Mp3, Flac, Matroska / WebM, MP4 / M4A, etc...)
 - Precise track seeking
 
