@@ -35,7 +35,7 @@ be more efficient than lavaplayer when it has matured.
   - _we're still flushing out this library, stay tuned!_
 
 > **Is this Kotlin-only?**    
-> Unfortunately, we depend on Kotlin-specific features such as suspending features which are basically 
+> Unfortunately, we depend on Kotlin-specific features such as suspending functions which are 
 > unusable in Java, we recommend using lavaplayer if Java-interop is a must.
 
 ## 🚀 Any examples?
@@ -45,4 +45,4 @@ Make sure to stay tuned in our **Support Server**
 
 ---
 
-[melike2d](https://www.dimensional.fun) &bull; Licensed under Apache 2.0
+[melike2d](https://2d.gay) &bull; Licensed under Apache 2.0
