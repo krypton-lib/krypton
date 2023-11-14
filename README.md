@@ -53,13 +53,15 @@ support as many different file variants.
 
 You'll have to stay tuned for the open-source release ;)
 
-<!--We do have two demo projects, one using [Kord](https://kord.dev) and another using [JDA](https://jda.wiki).
+<!--
+We do have two demo projects, one using [Kord](https://kord.dev) and another using [JDA](https://jda.wiki).
 
 > [!WARNING]
 > The Kord demo is still being used as a playground & debug area, I recommend looking at the JDA demo for now.
 
 - [JDA](demo-jda)
-- [Kord](demo-kord) --!>
+- [Kord](demo-kord) 
+-->
 
 ---
 
